@@ -37,6 +37,13 @@ Streamlit app consumes.
 
 > Minimum-size requirements satisfied: **30 features ≥ 12** and **569 instances ≥ 500**.
 
+### Dataset Constraints Verification
+To comply with the assignment guidelines, the following constraints are verified programmatic details of the dataset:
+- **Total Features:** 30 columns (Requirement: ≥ 12)
+- **Total Sample Instances:** 569 row entries (Requirement: ≥ 500)
+- **Evaluation Splitting:** 80% Training (455 samples) / 20% Held-out Testing (114 samples)
+
+
 ## c. GitHub Repository Link
 
 https://github.com/2026ak05451/ML_assignment_2
