@@ -39,7 +39,7 @@ Streamlit app consumes.
 
 ## c. GitHub Repository Link
 
-**[ PASTE YOUR GITHUB REPOSITORY LINK HERE ]**
+https://github.com/2026ak05451/ML_assignment_2
 
 ## d. Models Used — Evaluation Metrics
 
@@ -106,7 +106,7 @@ app shows the six metrics, the confusion matrix and the classification report.
 
 ## Live Streamlit App
 
-**[ PASTE YOUR LIVE STREAMLIT APP LINK HERE ]**
+https://2026ak05451-ml-assignment-2-app-295a4h.streamlit.app/
 
 ## Deploying on Streamlit Community Cloud
 
