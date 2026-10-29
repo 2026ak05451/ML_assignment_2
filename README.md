@@ -115,6 +115,14 @@ app shows the six metrics, the confusion matrix and the classification report.
 
 https://2026ak05451-ml-assignment-2-app-295a4h.streamlit.app/
 
+### Streamlit App Capabilities
+The deployed application implements the required standalone prediction capabilities:
+- [x] **File Uploader Widget:** Accepts standard test datasets (`.csv`).
+- [x] **Interactive Selector:** Sidebar/Dropdown menus to isolate and toggle the 5 pre-trained models dynamically.
+- [x] **Performance Layout:** Side-by-side matrices, metric dataframes, and standardized precision-recall classification reports.
+- [x] **Zero-Retrain Pipeline:** Directly applies serialized inference transformations via `joblib` artifacts without triggering training states.
+
+
 ## Deploying on Streamlit Community Cloud
 
 1. Push this folder to a public GitHub repo.
