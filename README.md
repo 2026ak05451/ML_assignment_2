@@ -98,6 +98,10 @@ project-folder/
     ├── metadata.joblib
     └── metrics.json
 ```
+### Serialized Artifact Specifications
+The `/model` directory contains binary serialization files exported using `joblib`. Each pipeline includes:
+1. `sklearn.preprocessing.StandardScaler` (Fitted exclusively on the training split to avoid data leakage)
+2. The specialized estimator instance containing converged hyperparameter weights.
 
 ## How to Run Locally
 
